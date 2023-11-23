@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joke", "Joke\Joke.csproj", "{4AACC2EC-8318-42D9-8C89-413E2EECE64E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuckNorrisGetApi", "ChuckNorrisGetApi\ChuckNorrisGetApi.csproj", "{F3B623F3-69F5-4EDC-B7DA-2E03501B50AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AACC2EC-8318-42D9-8C89-413E2EECE64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AACC2EC-8318-42D9-8C89-413E2EECE64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AACC2EC-8318-42D9-8C89-413E2EECE64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AACC2EC-8318-42D9-8C89-413E2EECE64E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B623F3-69F5-4EDC-B7DA-2E03501B50AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B623F3-69F5-4EDC-B7DA-2E03501B50AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B623F3-69F5-4EDC-B7DA-2E03501B50AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B623F3-69F5-4EDC-B7DA-2E03501B50AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92C35AB3-67DE-4712-B8FB-2240FF7E1E5C}
+	EndGlobalSection
+EndGlobal
